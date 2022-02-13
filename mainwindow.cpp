@@ -74,7 +74,7 @@ void MainWindow::on_a2_clicked()
 
 void MainWindow::on_a3_clicked()
 {
-    QDesktopServices::openUrl(QUrl("https://www.addto8.com/docs/"));
+    QDesktopServices::openUrl(QUrl("https://www.addto8.com/docs.html"));
 }
 
 void MainWindow::on_a4_clicked()
